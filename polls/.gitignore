@@ -1,0 +1,26 @@
+# Python
+*.pyc
+__pycache__/
+
+# Django
+*.sqlite3
+db.sqlite3
+
+# Virtual environments
+venv/
+env/
+
+# Secrets
+*.env
+
+# Static files
+/staticfiles/
+/media/
+
+# IDEs y editores
+.vscode/
+.idea/
+*.swp
+
+# Otros
+.DS_Store
